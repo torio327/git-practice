@@ -7,3 +7,8 @@
     font-size: xx-large;
     color: red;
 }
+.state{
+    font-size: large;
+    color: red;
+    animation: alternate;
+}
